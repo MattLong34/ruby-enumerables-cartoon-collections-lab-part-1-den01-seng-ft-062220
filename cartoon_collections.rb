@@ -13,3 +13,4 @@ def list_dwarves(array)
     array[dwarf] = index
   end
 end
+
